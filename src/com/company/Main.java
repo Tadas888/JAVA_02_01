@@ -10,6 +10,8 @@ public class Main {
         String vardas = sc.nextLine();
         System.out.println(vardas);
         System.out.println(vardas);
+        System.out.println(vardas);
+        System.out.println(vardas);
 
 
     }
